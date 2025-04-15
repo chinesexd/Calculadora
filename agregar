@@ -21,7 +21,7 @@
       font-size: 24px;
     }
 
-    .logo {
+    . {
       display: block;
       margin: 0 auto;
       width: 80%;
@@ -205,7 +205,7 @@
 </head>
 <body>
 
-  <img src="./Menú - Healthy Delicias3_files/logo.png" alt="Logo de Healthy Delicias" class="logo">
+  <img src=".png" alt=" de Healthy Delicias" class="">
   <h1>Menú de Healthy Delicias</h1>
 
   <!-- Mensaje de agregado al carrito -->
